@@ -1,0 +1,19 @@
+1)Why did you choose the particular algorithm?
+ I chose the Random Forest algorithm
+ reasons: Random Forest can provide insights into feature importance, Gives more accuracy than other,
+ Random Forest is an ensemble method that combines multiple decision trees to make predictions.
+
+2)What are the different tuning methods used for the algorithm?
+For tuning the Random Forest algorithm,
+following methods:
+Hyperparameter Tuning,Cross-Validation,Feature Selection
+
+3)Did you consider any other choice of algorithm?Why or why not?
+ Yes, I considered other algorithms for classification as well: Support Vector Machines (SVM): SVM is another popular algorithm for classification tasks. It aims to find the optimal hyperplane that best separates the classes.
+Logistic Regression: While often used for binary classification, logistic regression can also handle multiclass classification. It models the probability that an instance belongs to a particular class.
+
+4)What is the accuracy?
+The ratio of correctly predicted instances to the total instances.
+
+5)What are the different types of metrics that can be used to evaluate the model?
+Precision,Recall,F1-Score,Confusion Matrix etc.,
